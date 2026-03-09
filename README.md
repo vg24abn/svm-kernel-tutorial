@@ -14,3 +14,14 @@ The tutorial uses a synthetic dataset generated with Scikit-learn and visualizes
 ## Files
 - `svm_kernel_tutorial.ipynb` – main tutorial notebook
 - `figures/` – plots generated during experiments
+- 
+## Results
+
+### Dataset Visualization
+![Dataset](dataset_visualization.png)
+
+### Accuracy Comparison
+![Accuracy](accuracy_comparison.png)
+
+### Kernel Decision Boundaries
+![Boundaries](kernel_boundaries.png)
